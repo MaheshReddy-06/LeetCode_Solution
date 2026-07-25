@@ -6,9 +6,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
