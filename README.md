@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0011-container-with-most-water) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
