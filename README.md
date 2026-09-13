@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0835-image-overlap) |
 | [1470-shuffle-the-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
