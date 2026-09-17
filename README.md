@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0835-image-overlap) |
 | [1470-shuffle-the-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1470-shuffle-the-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0645-set-mismatch) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Math
 |  |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0836-rectangle-overlap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
