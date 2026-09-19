@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bit Manipulation
 |  |
 | ------- |
