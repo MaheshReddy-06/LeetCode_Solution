@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
