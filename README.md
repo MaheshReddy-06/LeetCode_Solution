@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3498-reverse-degree-of-a-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0836-rectangle-overlap) |
