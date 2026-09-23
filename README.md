@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0835-image-overlap) |
 | [1470-shuffle-the-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
 | [3524-find-x-value-of-array-i](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3524-find-x-value-of-array-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0645-set-mismatch) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Counting
 |  |
 | ------- |
@@ -144,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0645-set-mismatch) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
