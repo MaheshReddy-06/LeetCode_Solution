@@ -74,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
+| [1096-brace-expansion-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
@@ -154,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
