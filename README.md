@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
 | [3524-find-x-value-of-array-i](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [1096-brace-expansion-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
 | ------- |
