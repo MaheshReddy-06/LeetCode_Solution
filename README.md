@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
