@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MaheshReddy-06/LeetCode_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
